@@ -1,4 +1,4 @@
-require_relative "spec_helper"
+learnrequire_relative "spec_helper"
 
 describe "Pokemon" do
   before do
